@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="brain:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="brain.jar">
+      <element id="module-output" name="brain" />
+    </root>
+  </artifact>
+</component>

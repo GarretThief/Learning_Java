@@ -1,0 +1,1 @@
+private class Main {    private static void main(String[] args) {        Random rand = new Random();        int value = rand.nextInt(40)+10;        System.out.println(value + "! = " + factorial(value));    }
